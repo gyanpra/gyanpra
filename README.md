@@ -52,7 +52,7 @@
   
 - Connect with me
 
-  <a href="https://gyanpra.github.io/mini-portfolio/">🤔</a> <a href="https://www.linkedin.com/in/gyanp008/">
+  <a href="#">🤔</a> <a href="https://www.linkedin.com/in/gyanp008/">
   <img align="left" alt="Gyan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 
